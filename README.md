@@ -229,6 +229,7 @@ For an overview of every single NPC that is retextured. Please see [this section
 9. Black Mage Armor
 10. Triss Armor Retextured
 11. Volkihar Knight - Vampire Armor
+12. Sithis Armour - Special Edition - Mastercraft Version
 
 ## Serenity Plus
 
